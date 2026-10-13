@@ -4,6 +4,15 @@
         <title>VOP Ingest</title>
         <item>
             <title>1.0.5</title>
+            <pubDate>Tue, 13 Oct 2026 15:07:46 -0600</pubDate>
+            <sparkle:version>202610131506</sparkle:version>
+            <sparkle:shortVersionString>1.0.5</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
+            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
+            <enclosure url="https://github.com/VoiceOfProphecy/vop-ingest-updates/releases/download/v1.0.5/VOP-Ingest-1.0.5.zip" length="19297366" type="application/octet-stream" sparkle:edSignature="eVvDNNZNagkbsJTqplJ8wfCOg+ghUAMMmaJfMup2FXS86SXrEU0tSupav60Kvxg5N4bh6Ad/qJO5T79q8fX1Bg=="/>
+        </item>
+        <item>
+            <title>1.0.5</title>
             <pubDate>Tue, 13 Oct 2026 15:05:11 -0600</pubDate>
             <sparkle:version>202610131504</sparkle:version>
             <sparkle:shortVersionString>1.0.5</sparkle:shortVersionString>
@@ -19,15 +28,6 @@
             <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
             <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
             <enclosure url="https://github.com/VoiceOfProphecy/vop-ingest-updates/releases/download/v1.0.4/VOP-Ingest-1.0.4.zip" length="19283759" type="application/octet-stream" sparkle:edSignature="DwOKaCaLi4D/0uYltxMj9dn5xsrQpRv8WT7sqNcpuUOPuFqIsZ7I9nq6sxja75Y1FMDNH3C7h9nLBznlna2rCQ=="/>
-        </item>
-        <item>
-            <title>1.0.3</title>
-            <pubDate>Wed, 07 Oct 2026 16:09:36 -0600</pubDate>
-            <sparkle:version>202610071608</sparkle:version>
-            <sparkle:shortVersionString>1.0.3</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
-            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
-            <enclosure url="https://github.com/VoiceOfProphecy/vop-ingest-updates/releases/download/v1.0.3/VOP-Ingest-1.0.3.zip" length="19245091" type="application/octet-stream" sparkle:edSignature="6e1pbhuYZ5ZZPimpI0cOK4iaO82uKZ8G2Kc1hOU5SbE/paj9CSlJeZhn9lRV+e1V6H925HTSblDDRfQdeACCAg=="/>
         </item>
     </channel>
 </rss>
