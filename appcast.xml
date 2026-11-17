@@ -3,6 +3,15 @@
     <channel>
         <title>VOP Ingest</title>
         <item>
+            <title>1.2.0</title>
+            <pubDate>Tue, 17 Nov 2026 14:02:28 -0700</pubDate>
+            <sparkle:version>202611171401</sparkle:version>
+            <sparkle:shortVersionString>1.2.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
+            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
+            <enclosure url="https://github.com/VoiceOfProphecy/vop-ingest-updates/releases/download/v1.2.0/VOP-Ingest-1.2.0.zip" length="19857058" type="application/octet-stream" sparkle:edSignature="Su0kj7uczBJ2//npvExFSDVUjhQGv/CeUThKPJvjjuym72XZsgfRv1so4fAbefQ14PYIuhm1B/u0TnSS0ljrBQ=="/>
+        </item>
+        <item>
             <title>1.0.6</title>
             <pubDate>Tue, 20 Oct 2026 15:40:52 -0600</pubDate>
             <sparkle:version>202610201539</sparkle:version>
@@ -19,15 +28,6 @@
             <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
             <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
             <enclosure url="https://github.com/VoiceOfProphecy/vop-ingest-updates/releases/download/v1.0.5/VOP-Ingest-1.0.5.zip" length="19297366" type="application/octet-stream" sparkle:edSignature="eVvDNNZNagkbsJTqplJ8wfCOg+ghUAMMmaJfMup2FXS86SXrEU0tSupav60Kvxg5N4bh6Ad/qJO5T79q8fX1Bg=="/>
-        </item>
-        <item>
-            <title>1.0.5</title>
-            <pubDate>Tue, 13 Oct 2026 15:05:11 -0600</pubDate>
-            <sparkle:version>202610131504</sparkle:version>
-            <sparkle:shortVersionString>1.0.5</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
-            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
-            <enclosure url="https://github.com/VoiceOfProphecy/vop-ingest-updates/releases/download/v1.0.5/VOP-Ingest-1.0.5.zip" length="19297390" type="application/octet-stream" sparkle:edSignature="62v7zRDCkFIewglAH3INabMXAUXPYWFc1x075pI3zOhKhFGWvlYWUoG2ThtiZlWrzVbJwSTLee2ZS3fHSSkLCQ=="/>
         </item>
     </channel>
 </rss>
